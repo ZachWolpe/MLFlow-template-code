@@ -1,0 +1,11 @@
+name: mlflow-tut
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn==0.23.2
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - mlflow

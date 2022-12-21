@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/68b65d7e0fc540b3ba51b3604b5f5bcb/artifacts
+end_time: 1671602133168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68b65d7e0fc540b3ba51b3604b5f5bcb
+run_name: vaunted-bear-545
+run_uuid: 68b65d7e0fc540b3ba51b3604b5f5bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602132035
+status: 3
+tags: []
+user_id: zachwolpe

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/2ef853982b1e43b8a6f971d63933bb8b/artifacts
+end_time: 1671602059926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ef853982b1e43b8a6f971d63933bb8b
+run_name: melodic-goat-836
+run_uuid: 2ef853982b1e43b8a6f971d63933bb8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602058788
+status: 3
+tags: []
+user_id: zachwolpe

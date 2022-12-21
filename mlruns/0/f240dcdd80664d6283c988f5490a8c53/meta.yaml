@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/f240dcdd80664d6283c988f5490a8c53/artifacts
+end_time: 1671602129105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f240dcdd80664d6283c988f5490a8c53
+run_name: amazing-foal-978
+run_uuid: f240dcdd80664d6283c988f5490a8c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602127969
+status: 3
+tags: []
+user_id: zachwolpe

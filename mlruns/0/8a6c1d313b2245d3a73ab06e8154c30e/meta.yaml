@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/8a6c1d313b2245d3a73ab06e8154c30e/artifacts
+end_time: 1671602153470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a6c1d313b2245d3a73ab06e8154c30e
+run_name: nervous-shrike-776
+run_uuid: 8a6c1d313b2245d3a73ab06e8154c30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602152323
+status: 3
+tags: []
+user_id: zachwolpe

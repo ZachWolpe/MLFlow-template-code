@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/b999db50761549ddb037b83ee21e50d2/artifacts
+end_time: 1671602066047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b999db50761549ddb037b83ee21e50d2
+run_name: melodic-newt-489
+run_uuid: b999db50761549ddb037b83ee21e50d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602064905
+status: 3
+tags: []
+user_id: zachwolpe

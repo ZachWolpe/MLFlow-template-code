@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/d1202a42912b46d383d72d63a5da3dab/artifacts
+end_time: 1671602127071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1202a42912b46d383d72d63a5da3dab
+run_name: sneaky-mouse-844
+run_uuid: d1202a42912b46d383d72d63a5da3dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602125936
+status: 3
+tags: []
+user_id: zachwolpe

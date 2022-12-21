@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/c979adadc5cb408ab36331d4f7fe06ab/artifacts
+end_time: 1671602084327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c979adadc5cb408ab36331d4f7fe06ab
+run_name: welcoming-smelt-143
+run_uuid: c979adadc5cb408ab36331d4f7fe06ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602083180
+status: 3
+tags: []
+user_id: zachwolpe

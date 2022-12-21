@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/499851e01342471d93f62418681c14ab/artifacts
+end_time: 1671602165696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 499851e01342471d93f62418681c14ab
+run_name: selective-pig-135
+run_uuid: 499851e01342471d93f62418681c14ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602164552
+status: 3
+tags: []
+user_id: zachwolpe

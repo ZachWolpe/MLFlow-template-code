@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/6d837dc033224f6182843956060dcc7c/artifacts
+end_time: 1671602082287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d837dc033224f6182843956060dcc7c
+run_name: suave-worm-371
+run_uuid: 6d837dc033224f6182843956060dcc7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602081141
+status: 3
+tags: []
+user_id: zachwolpe

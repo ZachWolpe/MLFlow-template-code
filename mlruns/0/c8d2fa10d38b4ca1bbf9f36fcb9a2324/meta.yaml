@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/c8d2fa10d38b4ca1bbf9f36fcb9a2324/artifacts
+end_time: 1671602137250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8d2fa10d38b4ca1bbf9f36fcb9a2324
+run_name: agreeable-fly-119
+run_uuid: c8d2fa10d38b4ca1bbf9f36fcb9a2324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602136100
+status: 3
+tags: []
+user_id: zachwolpe

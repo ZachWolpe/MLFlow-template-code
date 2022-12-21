@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/32fac6a1f4d54c1d8bfcd3d6889056b7/artifacts
+end_time: 1671602118943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32fac6a1f4d54c1d8bfcd3d6889056b7
+run_name: bedecked-colt-783
+run_uuid: 32fac6a1f4d54c1d8bfcd3d6889056b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602117813
+status: 3
+tags: []
+user_id: zachwolpe

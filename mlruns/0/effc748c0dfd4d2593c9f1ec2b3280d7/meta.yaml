@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/effc748c0dfd4d2593c9f1ec2b3280d7/artifacts
+end_time: 1671602096529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: effc748c0dfd4d2593c9f1ec2b3280d7
+run_name: wistful-cat-327
+run_uuid: effc748c0dfd4d2593c9f1ec2b3280d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602095388
+status: 3
+tags: []
+user_id: zachwolpe

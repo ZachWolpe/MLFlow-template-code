@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/117136439b33475dab7fee9e2dd59193/artifacts
+end_time: 1671602074145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 117136439b33475dab7fee9e2dd59193
+run_name: abrasive-lynx-418
+run_uuid: 117136439b33475dab7fee9e2dd59193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602073005
+status: 3
+tags: []
+user_id: zachwolpe

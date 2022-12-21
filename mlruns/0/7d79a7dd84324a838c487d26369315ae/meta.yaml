@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/7d79a7dd84324a838c487d26369315ae/artifacts
+end_time: 1671602155512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d79a7dd84324a838c487d26369315ae
+run_name: flawless-owl-191
+run_uuid: 7d79a7dd84324a838c487d26369315ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602154368
+status: 3
+tags: []
+user_id: zachwolpe

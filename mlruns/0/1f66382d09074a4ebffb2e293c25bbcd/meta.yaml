@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/1f66382d09074a4ebffb2e293c25bbcd/artifacts
+end_time: 1671602098561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f66382d09074a4ebffb2e293c25bbcd
+run_name: nimble-cod-955
+run_uuid: 1f66382d09074a4ebffb2e293c25bbcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602097423
+status: 3
+tags: []
+user_id: zachwolpe

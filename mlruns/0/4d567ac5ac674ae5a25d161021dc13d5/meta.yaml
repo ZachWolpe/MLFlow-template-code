@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/4d567ac5ac674ae5a25d161021dc13d5/artifacts
+end_time: 1671602106723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d567ac5ac674ae5a25d161021dc13d5
+run_name: efficient-shrimp-989
+run_uuid: 4d567ac5ac674ae5a25d161021dc13d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602105558
+status: 3
+tags: []
+user_id: zachwolpe

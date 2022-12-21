@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/97d4bcd44e6b425fa0d2b3c5802f50a6/artifacts
+end_time: 1671602179992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97d4bcd44e6b425fa0d2b3c5802f50a6
+run_name: silent-duck-949
+run_uuid: 97d4bcd44e6b425fa0d2b3c5802f50a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602178842
+status: 3
+tags: []
+user_id: zachwolpe

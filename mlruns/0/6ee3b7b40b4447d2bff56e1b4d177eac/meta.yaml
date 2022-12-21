@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/6ee3b7b40b4447d2bff56e1b4d177eac/artifacts
+end_time: 1671602143317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ee3b7b40b4447d2bff56e1b4d177eac
+run_name: grandiose-chimp-236
+run_uuid: 6ee3b7b40b4447d2bff56e1b4d177eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602142183
+status: 3
+tags: []
+user_id: zachwolpe

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/3ed0623b69c8433fa972f91105579860/artifacts
+end_time: 1671602080246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ed0623b69c8433fa972f91105579860
+run_name: dashing-dove-955
+run_uuid: 3ed0623b69c8433fa972f91105579860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602079104
+status: 3
+tags: []
+user_id: zachwolpe

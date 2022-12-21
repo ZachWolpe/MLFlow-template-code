@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/08ca78bf4ae644a4a9bfbe07ca7b2cf3/artifacts
+end_time: 1671602086371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08ca78bf4ae644a4a9bfbe07ca7b2cf3
+run_name: painted-chimp-292
+run_uuid: 08ca78bf4ae644a4a9bfbe07ca7b2cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602085224
+status: 3
+tags: []
+user_id: zachwolpe

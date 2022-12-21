@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/6b442d9db3e642b2b427a9eca95eb291/artifacts
+end_time: 1671602094502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b442d9db3e642b2b427a9eca95eb291
+run_name: blushing-snipe-455
+run_uuid: 6b442d9db3e642b2b427a9eca95eb291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602093374
+status: 3
+tags: []
+user_id: zachwolpe

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/13fe3b1db64a4c9e9bbae6abf5b1a1c3/artifacts
+end_time: 1671602100604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13fe3b1db64a4c9e9bbae6abf5b1a1c3
+run_name: persistent-shoat-165
+run_uuid: 13fe3b1db64a4c9e9bbae6abf5b1a1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602099453
+status: 3
+tags: []
+user_id: zachwolpe

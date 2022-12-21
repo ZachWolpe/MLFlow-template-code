@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/f0c914cbc6844a46b38bfbd7ce6f3cff/artifacts
+end_time: 1671602116924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0c914cbc6844a46b38bfbd7ce6f3cff
+run_name: vaunted-quail-529
+run_uuid: f0c914cbc6844a46b38bfbd7ce6f3cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602115791
+status: 3
+tags: []
+user_id: zachwolpe

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/84bad4061d9248e9bd0d662ec9677777/artifacts
+end_time: 1671602194355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84bad4061d9248e9bd0d662ec9677777
+run_name: respected-goose-951
+run_uuid: 84bad4061d9248e9bd0d662ec9677777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602193213
+status: 3
+tags: []
+user_id: zachwolpe

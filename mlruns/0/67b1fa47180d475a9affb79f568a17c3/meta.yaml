@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/67b1fa47180d475a9affb79f568a17c3/artifacts
+end_time: 1671602039514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67b1fa47180d475a9affb79f568a17c3
+run_name: classy-skink-378
+run_uuid: 67b1fa47180d475a9affb79f568a17c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602038371
+status: 3
+tags: []
+user_id: zachwolpe

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/3d7b61c9a3214cd6943e0a7286d2fc59/artifacts
+end_time: 1671602177951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d7b61c9a3214cd6943e0a7286d2fc59
+run_name: dashing-pig-524
+run_uuid: 3d7b61c9a3214cd6943e0a7286d2fc59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602176808
+status: 3
+tags: []
+user_id: zachwolpe

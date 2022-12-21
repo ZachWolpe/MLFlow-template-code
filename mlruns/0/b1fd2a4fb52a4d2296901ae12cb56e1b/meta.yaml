@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/b1fd2a4fb52a4d2296901ae12cb56e1b/artifacts
+end_time: 1671602102639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1fd2a4fb52a4d2296901ae12cb56e1b
+run_name: bemused-goat-750
+run_uuid: b1fd2a4fb52a4d2296901ae12cb56e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602101495
+status: 3
+tags: []
+user_id: zachwolpe

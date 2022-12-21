@@ -1,0 +1,10 @@
+name: mlflow-tut
+
+python_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      alpha:    {type: float, default: 0.5}
+      l1_ratio: {type: float, default: 0.5}
+    command: "python wine_model.py {alpha} {l1_ratio}"

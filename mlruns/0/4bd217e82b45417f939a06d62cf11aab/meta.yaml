@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/4bd217e82b45417f939a06d62cf11aab/artifacts
+end_time: 1671602076172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bd217e82b45417f939a06d62cf11aab
+run_name: bittersweet-wasp-243
+run_uuid: 4bd217e82b45417f939a06d62cf11aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602075034
+status: 3
+tags: []
+user_id: zachwolpe

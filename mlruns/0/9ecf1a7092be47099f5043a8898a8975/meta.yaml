@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/9ecf1a7092be47099f5043a8898a8975/artifacts
+end_time: 1671602159577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ecf1a7092be47099f5043a8898a8975
+run_name: luxuriant-bug-314
+run_uuid: 9ecf1a7092be47099f5043a8898a8975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602158442
+status: 3
+tags: []
+user_id: zachwolpe

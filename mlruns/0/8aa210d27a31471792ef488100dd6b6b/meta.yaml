@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/8aa210d27a31471792ef488100dd6b6b/artifacts
+end_time: 1671602125039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aa210d27a31471792ef488100dd6b6b
+run_name: welcoming-stag-403
+run_uuid: 8aa210d27a31471792ef488100dd6b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602123905
+status: 3
+tags: []
+user_id: zachwolpe

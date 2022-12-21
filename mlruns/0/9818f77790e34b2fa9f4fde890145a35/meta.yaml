@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/9818f77790e34b2fa9f4fde890145a35/artifacts
+end_time: 1671602171829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9818f77790e34b2fa9f4fde890145a35
+run_name: rebellious-asp-547
+run_uuid: 9818f77790e34b2fa9f4fde890145a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602170680
+status: 3
+tags: []
+user_id: zachwolpe

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/5afbeaf34e7644329ce4a55313d4867c/artifacts
+end_time: 1671602141295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5afbeaf34e7644329ce4a55313d4867c
+run_name: defiant-bear-164
+run_uuid: 5afbeaf34e7644329ce4a55313d4867c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602140163
+status: 3
+tags: []
+user_id: zachwolpe

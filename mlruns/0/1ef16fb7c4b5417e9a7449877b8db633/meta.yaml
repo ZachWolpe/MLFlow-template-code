@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/1ef16fb7c4b5417e9a7449877b8db633/artifacts
+end_time: 1671602149410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ef16fb7c4b5417e9a7449877b8db633
+run_name: learned-pug-921
+run_uuid: 1ef16fb7c4b5417e9a7449877b8db633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602148273
+status: 3
+tags: []
+user_id: zachwolpe

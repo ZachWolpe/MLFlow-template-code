@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/6718e9e3a0a44004a135b02f558b3927/artifacts
+end_time: 1671602037482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6718e9e3a0a44004a135b02f558b3927
+run_name: thoughtful-quail-290
+run_uuid: 6718e9e3a0a44004a135b02f558b3927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602036340
+status: 3
+tags: []
+user_id: zachwolpe

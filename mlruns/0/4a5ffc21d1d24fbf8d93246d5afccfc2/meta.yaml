@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zachwolpe/Desktop/%C2%B5%CF%80/goofy.io/MLFlow/mlruns/0/4a5ffc21d1d24fbf8d93246d5afccfc2/artifacts
+end_time: 1671602192318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a5ffc21d1d24fbf8d93246d5afccfc2
+run_name: tasteful-bat-95
+run_uuid: 4a5ffc21d1d24fbf8d93246d5afccfc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671602191184
+status: 3
+tags: []
+user_id: zachwolpe
